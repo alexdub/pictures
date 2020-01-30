@@ -1,0 +1,16 @@
+
+
+.first {
+    font-family: 'Lilita One', cursive;
+}
+.second {
+    font-family: 'Roboto', sans-serif;
+}
+.third {
+    font-family: 'Alatsi', sans-serif;
+}
+
+
+body {
+    cursor: url(https://cdn3.iconfinder.com/data/icons/flat-artistic-common-2/32/cursor-32.png), auto;
+}
